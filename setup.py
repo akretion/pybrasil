@@ -33,7 +33,6 @@ setup(
         'email-validator',
         'future',
         'lxml',
-        'M2Crypto',
         'mako',
         'numpy',
         'py3o.template',
