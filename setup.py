@@ -5,7 +5,6 @@ setup(
     packages=[
         'pybrasil',
         'pybrasil.base',
-        'pybrasil.certificado',
         'pybrasil.codigo_barras',
         'pybrasil.codigo_barras.datamatrix',
         'pybrasil.data',
